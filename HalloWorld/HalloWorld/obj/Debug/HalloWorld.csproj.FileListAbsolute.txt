@@ -1,0 +1,7 @@
+D:\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe.config
+D:\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.exe
+D:\C#\HalloWorld\HalloWorld\bin\Debug\HalloWorld.pdb
+D:\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
+D:\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.csproj.CoreCompileInputs.cache
+D:\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.exe
+D:\C#\HalloWorld\HalloWorld\obj\Debug\HalloWorld.pdb

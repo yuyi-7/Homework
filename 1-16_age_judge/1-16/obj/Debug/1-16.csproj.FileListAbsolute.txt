@@ -1,0 +1,10 @@
+D:\C#\1-16_age_judge\1-16\obj\Debug\1-16.csprojResolveAssemblyReference.cache
+D:\C#\1-16_age_judge\1-16\obj\Debug\_1_16.Test3_1.resources
+D:\C#\1-16_age_judge\1-16\obj\Debug\_1_16.Properties.Resources.resources
+D:\C#\1-16_age_judge\1-16\obj\Debug\1-16.csproj.GenerateResource.cache
+D:\C#\1-16_age_judge\1-16\obj\Debug\1-16.csproj.CoreCompileInputs.cache
+D:\C#\1-16_age_judge\1-16\bin\Debug\1-16.exe.config
+D:\C#\1-16_age_judge\1-16\bin\Debug\1-16.exe
+D:\C#\1-16_age_judge\1-16\bin\Debug\1-16.pdb
+D:\C#\1-16_age_judge\1-16\obj\Debug\1-16.exe
+D:\C#\1-16_age_judge\1-16\obj\Debug\1-16.pdb

@@ -1,0 +1,7 @@
+D:\C#\DateCalculate\DateCalculate\bin\Debug\DateCalculate.exe.config
+D:\C#\DateCalculate\DateCalculate\bin\Debug\DateCalculate.exe
+D:\C#\DateCalculate\DateCalculate\bin\Debug\DateCalculate.pdb
+D:\C#\DateCalculate\DateCalculate\obj\Debug\DateCalculate.csprojResolveAssemblyReference.cache
+D:\C#\DateCalculate\DateCalculate\obj\Debug\DateCalculate.csproj.CoreCompileInputs.cache
+D:\C#\DateCalculate\DateCalculate\obj\Debug\DateCalculate.exe
+D:\C#\DateCalculate\DateCalculate\obj\Debug\DateCalculate.pdb

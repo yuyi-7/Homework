@@ -1,0 +1,6 @@
+D:\C#\求和\求和\bin\Debug\求和.exe.config
+D:\C#\求和\求和\bin\Debug\求和.exe
+D:\C#\求和\求和\bin\Debug\求和.pdb
+D:\C#\求和\求和\obj\Debug\求和.csproj.CoreCompileInputs.cache
+D:\C#\求和\求和\obj\Debug\求和.exe
+D:\C#\求和\求和\obj\Debug\求和.pdb

@@ -1,0 +1,7 @@
+D:\C#\P23\P23\bin\Debug\P23.exe.config
+D:\C#\P23\P23\bin\Debug\P23.exe
+D:\C#\P23\P23\bin\Debug\P23.pdb
+D:\C#\P23\P23\obj\Debug\P23.csprojResolveAssemblyReference.cache
+D:\C#\P23\P23\obj\Debug\P23.csproj.CoreCompileInputs.cache
+D:\C#\P23\P23\obj\Debug\P23.exe
+D:\C#\P23\P23\obj\Debug\P23.pdb
